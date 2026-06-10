@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BH;EG;IQ" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
